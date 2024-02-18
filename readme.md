@@ -1,0 +1,1 @@
+This is a proyect about a cafe blog when you can practice your abilities just wiht html and css
